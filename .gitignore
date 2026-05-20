@@ -126,6 +126,10 @@ celerybeat.pid
 # Environments
 .env
 .venv
+
+# Local LiveKit server binary (downloaded for dev)
+tools/livekit-server.exe
+tools/livekit.zip
 env/
 venv/
 ENV/
