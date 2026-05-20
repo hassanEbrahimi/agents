@@ -1,0 +1,15 @@
+{
+  "order_id": "20260520-053747-94d702",
+  "created_at": "2026-05-20T05:37:47.011076+00:00",
+  "restaurant": "سفره طلایی",
+  "customer_name": "حسن محمدی",
+  "customer_phone": "۰۹۳۵۲۲۲۱۵۴۱",
+  "order_type": "pickup",
+  "delivery_address": null,
+  "items": [
+    "قیمه ×۱",
+    "نوشابه ×۱"
+  ],
+  "total_toman": 320000,
+  "notes": null
+}

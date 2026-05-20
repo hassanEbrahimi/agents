@@ -1,0 +1,15 @@
+{
+  "order_id": "20260520-065422-36ebf3",
+  "created_at": "2026-05-20T06:54:22.299389+00:00",
+  "restaurant": "Golden Plate",
+  "customer_name": "Muse Ahmadi",
+  "customer_phone": "09154004959",
+  "order_type": "delivery",
+  "delivery_address": "Rain Street No 456",
+  "items": [
+    "Veggie burger x2",
+    "Soft drink x2"
+  ],
+  "total_usd": 30.0,
+  "notes": null
+}
